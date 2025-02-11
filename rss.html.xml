@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0">
+    <channel>
+        <title>My Blog</title>
+        <link>http://www.myblog.com</link>
+        <description>My blog description</description>
+        <language>en-us</language>
+        <lastBuildDate>Mon, 06 Sep 2010 00:01:00 +0000</lastBuildDate>
+        <item>
+            <title>My First Post</title>
+            <link>http://www.myblog.com/my-first-post</link>
+            <description>My first post description</description>
+            <pubDate>Mon, 06 Sep 2010 00:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>My Second Post</title>
+            <link>http://www.myblog.com/my-second-post</link>
+        </item>
+    </channel>
+</rss>
